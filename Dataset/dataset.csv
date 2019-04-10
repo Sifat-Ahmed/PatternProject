@@ -1,0 +1,87 @@
+,id,favorite_transport,favorite_food,expected_food_price,month_cost,delivery_preference,food_flavor,location_preferred,go_with,travel_budget,restaurant_location,rainy_season_pref,condition_pref,num_home_delivery,num_visit,monthly_earn
+1,151341021,Bus,Pasta,400,1000,restaurant,Spicy,Khilgaon,Friends,6000,Dhanmondi,Pasta,Both,0,4,0
+2,151341012,Bus,Burger,200,600,restaurant,Sweet,Dhanmondi,Friends,7500,Dhanmondi,Mango,Food,1,4,0
+3,151341008,Rickshaw,Kacchi,150,150,Home,Spicy,aust,Family,5000,Mohammadpur,Khicuri,Both,2,5,0
+5,151341029,Car,Chinese,1500,3000,Home,Sweet,aust,Friends,2500,Khilgaon,Khichuri,food,2,5,1000
+6,151341005,Rickshaw,Chinese,300,900,restaurant,Spicy,Baily Road,Friends,5000,Gulshan,Khichuri,both,2,5,0
+7,151341006,Car,Pizza,300,300,Home,Sweet,university ,Family,5000,dhanmondi,coffee,both,1,1,0
+8,151341023,Rickshaw,Icecream,200,600,Home,Sweet,University,Friends,5000,Mohammadpur,Khichuri,both,2,4,0
+9,151341009,Rickshaw,Pasta,300,300,restaurant,Spicy,University,Friends,3000,Dhanmondi,Khichuri,both,1,1,0
+10,151341014,Rickshaw,Burger,500,2000,restaurant,Spicy,Farmgate,Friends,4000,Dhanmondi,Khichuri,food,1,5,7000
+11,151341026,Cycle,Kacchi,180,720,restaurant,Spicy,Mohammadpur,Friends,5000,Dhanmondi,khichuri,food,1,3,NaN
+12,151341004,Car,Burger,300,600,restaurant,Spicy,Dhanmondi,Friends,10000,Gulshan,Burger,food,2,6,0
+13,151341019,Car,Kacchi,200,600,restaurant,Spicy,NaN,Friends,1500,Dhanmondi,khichuri,both,0,4,2000
+14,151341013,Cycle,soup,300,600,restaurant,Spicy,Dhanmondi,Friends,3000,Banani,soup ,food,0,2,0
+15,151341022,Car,Kacchi,300,2000,Home,Spicy,NaN,Friends,6000,NaN,Khichuri,food,2,2,0
+16,151341027,Rickshaw,Chicken,90,200,restaurant,Spicy,University,Friends,1000,Dhanmondi,Muri,food,0,3,0
+18,151341037,Rickshaw,kacchi,200,500,restaurant,Spicy,Dhanmondi,Alone,3000,Dhanmondi,kacchi,food,0,1,10000
+19,151341038,Car,Pasta,300,1000,restaurant,Spicy,Dhanmondi,Friends,1000,Dhanmondi,Khichuri,Food,2,4,0
+20,151341035,Rickshaw,None,NaN,NaN,restaurant,Spicy,Farmgate,Friends,NaN,NaN,NaN,food,1,2,100000
+21,141440899,Rickshaw,Pasta,350,2000,Home,Spicy,NaN,Friends,5000,Banani,coffee,food,10,6,0
+22,141440945,Car,Pasta,235,470,Home,Spicy,NaN,Alone,5000,Dhanmondi,khichuri,environment,2,2,15000
+23,151341028,Bus,Biriyani,200,200,restaurant,Sweet,University,Friends,3000,Jigatola,Khichuri,food,0,3,0
+24,151340998,Rickshaw,Biriyani,150,300,restaurant,Sweet,home,Friends,2000,Dhanmondi,khichuri,food,0,1,6000
+25,151340979,Car,Kacchi,100,10000,restaurant,Spicy,Gulshan,Alone,8000,Thatari Bazar,Biriyani,Both,0,2,0
+28,151340983,Cycle,Kacchi,180,2000,restaurant,Spicy,NaN,Friends,7000,shantinagor,khichuri,food,5,3,3000
+29,151340981,Cycle,chicken,55,300,restaurant,Spicy,NaN,Alone,4000,dhanmondi,coffee,food,0,0,5000
+30,151340988,Rickshaw,burger,350,1000,Home,Spicy,bashundhara,Friends,7000,bashundhara,khichuri,environment,4,6,7000
+31,151340994,Cycle,Biriyani,200,400,restaurant,Sweet,Shyamoli,Friends,6000,Shyamoli,Khichuri,food,3,3,10000
+32,151340985,Rickshaw,None,400,2000,Home,Spicy,home,Friends,6000,dhanmondi,khichuri,food,10,10,0
+33,151340996,Bus,Biriyani,220,880,restaurant,Sweet,Gulshan,Friends,12000,Dhanmondi,Biriyani,food,0,4,25000
+34,151340976,Rickshaw,Biriyani,150,1300,restaurant,Spicy,Khilgaon,Friends,5000,Khilgaon,khichuri,food,1,10,20000
+35,151340986,Rickshaw,Biriyani,150,300,restaurant,Spicy,Home,Friends,0,Aust,Biriyani,food,0,2,0
+36,151340980,Rickshaw,burger,200,500,restaurant,Spicy,home,Alone,5000,dhanmondi,khichuri,environment,0,20,5000
+37,151341001,Car,Burger,50,500,Home,Spicy,Dhanmondi,Family,7000,dhanmondi,Khichuri,food,4,5,0
+38,151340990,Rickshaw,burger,150,300,restaurant,Sweet,jatrabari,Family,5000,khilgaon,khichuri,food,1,5,0
+40,151340984,Rickshaw,Kacchi,240,2000,restaurant,Spicy,"Azimpur, Khilgaon, Dhanmondi",Friends,0,Dhanmondi,Khichuri,food,0,20,NaN
+41,151340991,Rickshaw,Burger,250,1000,restaurant,Spicy,University,Friends,6000,Dhanmondi,Khichuri,food,3,6,7000
+42,151340982,Rickshaw,Burger,1000,200,restaurant,Sweet,AUST,Family,7500,Dhanmondi,Pickels,food,0,2,0
+43,151340992,Car,fries,100,800,Home,Spicy,university,Family,10000,dhanmondi,khichuri,both,8,2,7000
+44,151340905,Rickshaw,Pizza,500,1000,restaurant,Spicy,Baily Road,Friends,5000,Malibag,Khichuri,food,2,3,10000
+45,151340898,Rickshaw,Coffee,80,500,restaurant,Sweet,Bailey Road,Friends,10000,Gulshan,Coffee,environment,1,10,10000
+46,151340919,Car,Pizza,350,1500,restaurant,Spicy,Uttara,Friends,20000,Banani,Khichuri,food,3,8,7000
+47,151340897,Cycle,Milk,200,300,Home,Sweet,Room,Friends,100,B Baria,Pitha,environment,0,0,1000
+48,151340907,Rickshaw,Biriyani,160,1000,restaurant,Spicy,Dhanmondi,Friends,2000,"Khilgaon, Dhaka",Khichuri,food,0,3,4000
+49,151340917,Rickshaw,beef,250,1000,restaurant,Spicy,AUST,Friends,8500,Khilgao,khichuri,environment,0,20,6000
+50,151340906,Cycle,Beef,120,240,Home,Spicy,Dhanmondi,Friends,2000,Dhanmondi,Khichuri,Food,2,1,0
+52,151340903,Cycle,Tehari,150,1500,restaurant,Spicy,NaN,Friends,7000,Banani,IceCream,food,0,4,20000
+53,151340909,Rickshaw,Chicken,300,3000,Home,Sweet,University,Friends,8000,Banani,khichuri,environment,0,4,3000
+54,151340918,Rickshaw,Biriyani,250,700,restaurant,Spicy,Dhanmondi,Family,7000,Dhanmondi,Khichuri,enviroment,0,6,0
+55,151340902,Car,Pizza,250,700,restaurant,Spicy,University,Family,5000,Banani,Beef,food_quality,0,4,0
+56,151340913,Rickshaw,Pasta,190,600,restaurant,Spicy,Khilgaon,Friends,5000,Khilgaon,Khichuri,environment,2,5,NaN
+57,151340920,Rickshaw,Kacchi,160,640,Home,Spicy,Khilgaon,Friends,5000,Khilgaon,Khichuri,environment,1,7,10000
+58,151340894,Cycle,Tehari,120,600,restaurant,Spicy,University,Friends,6000,Mirpur,Khichuri,food,1,3,5000
+59,151340914,Rickshaw,Pasta,250,500,restaurant,Sweet,Mirpur,Alone,5000,Mirpur,khichuri,environment,1,1,8000
+61,151340901,Rickshaw,Biriyani,140,500,Home,Spicy,BaileyRoad,Friends,6000,Dhanmondi,khichuri,food,10,2,5000
+62,151340910,Rickshaw,kacchi,150,500,Home,Sweet,khilgoan,Friends,5000,Dhanmondi,khichuri,environment,0,2,5000
+63,151340916,Car,fish,30,350,restaurant,Spicy,banani,Friends,8000,Malibagh,khichuri,food,0,4,0
+64,151340911,Rickshaw,Pasta,250,500,restaurant,Spicy,Dhanmondi,Family,7000,Dhanmondi,Khichuri,Food,3,2,2000
+66,151340925,Bus,Burger,250,1000,restaurant,Spicy,Dhanmondi,Friends,5000,Dhanmondi,Khichuri,food,0,4,20000
+67,151340928,Car,Kacchi,250,500,restaurant,Spicy,Mirpur,Friends,5000,Mirpur,Khichuri,Good,1,3,NaN
+69,151340941,Rickshaw,Fried Rice,300,1000,restaurant,Spicy,haterjheel,Friends,4000,Khilgoan,Khichuri,environment,1,5,0
+70,151340930,Car,Chicken,50,1500,Home,Sweet,NaN,Family,5000,Gulshan,Khichuri,environment,6,1,12000
+72,151340934,Cycle,Briyani,180,500,restaurant,Sweet,Basundhara,Friends,10000,Gulshan,Khichuri,environment,0,3,5000
+73,151340945,Car,Burger,180,500,restaurant,Spicy,Dhanmondi,Family,8000,Dhanmondi,Khichuri,Food,1,2,5000
+74,151340931,Car,Chinese,300,1000,restaurant,Spicy,Dhanmondi,Friends,3000,Dhanmondi,Khichuri,food,0,2,0
+75,151340926,Car,Burger,200,1200,restaurant,Spicy,Khilgaon,Friends,8000,Dhanmondi,khichuri,fresh,2,8,12000
+76,151340944,Rickshaw,Kacchi,160,320,restaurant,Spicy,GreenRoad,Friends,5000,Dhanmondi,Khichuri,food,1,3,5000
+77,151340942,Car,Italian,300,100,Home,Spicy,Café,Family,5000,BaileyRoad,fries,environment,1,0,0
+78,151340932,Rickshaw,chicken,120,360,restaurant,Spicy,University,Friends,5000,Dhanmondi,Khichuri,Food,0,2,0
+79,151340933,Cycle,Kacchi,150,450,restaurant,Spicy,university,Friends,7500,Rampura,Khichuri,food,1,3,0
+80,151340923,Car,Pasta,220,1100,restaurant,Spicy,BaileyRoad,Family,5000,Khilgaon,Khichuri,food,1,10,15000
+81,151340935,Cycle,Biriyani,200,600,restaurant,Spicy,University,Family,6000,Jigatola,khichuri,both,0,0,0
+82,151340943,Car,Pizza,600,2000,restaurant,Spicy,Dhaka,Friends,6000,Dhanmondi,Spicy,food,0,3,0
+83,151340947,Rickshaw,coffee,225,1000,restaurant,Spicy,banani,Friends,5000,gulshan,NaN,both,4,0,4000
+84,151340937,Rickshaw,Kacchi,150,500,restaurant,Spicy,University,Family,5000,Dhanmondi,Khichuri,food,1,2,0
+85,151340939,Rickshaw,Burger,60,180,restaurant,Sweet,Hatirjheel,Friends,5000,Khilgaon,Khichuri,food,1,2,3000
+86,151340921,Rickshaw,Biriyani,150,1000,Home,Spicy,NaN,Friends,6000,Chittagong,Khichuri,food,4,5,0
+88,151341039,Rickshaw,Pasta,300,2000,Home,Spicy,Dhanmondi Lake,Friends,NaN,Khilgaon,Pasta,Environment,10,5,30000
+89,151341020,Rickshaw,Biriyani,150,400,restaurant,Spicy,Tong,Friends,4000,Dhanmondi,Khichuri,food,0,2,8000
+92,131440969,Rickshaw,Biriyani,200,1000,restaurant,Sweet,Gulshan 1,Friends,5000,Gulshan,Khichori,food,2,4,0
+94,121440946,Bus,Soup,150,300,Home,Sweet,Gazipur,Alone,400,Mirpur,Khichury,Environment,3,1,200
+96,151341040,Rickshaw,Pasta,300,300,Home,Spicy,Varsity,Friends,5000,Banani,Khichuri,Food,2,2,0
+97,151341043,Car,coffee,200,200,Home,Sweet,Munshiganj,Family,2000,Siddeswari,Payes,food,2,5,0
+98,131440910,Rickshaw,pizza,300,300,Home,Sweet,NaN,Friends,NaN,khilgaon,tea,food,2,0,3000
+100,141440980,Car,Kacchi,170,1000,restaurant,Sweet,varsity,Friends,5000,khilgaon,khichuri,environment,5,3,10000
+101,151341036,Car,Coffee,250,1000,restaurant,Spicy,Mohammadpur,Friends,15000,gulshan,khichuri,environment,2,3,0
+103,151341044,Rickshaw,Coffee,400,2500,restaurant,Spicy,Rajshahi,Family,10000,Rampura,khichuri,food,5,6,30000
